@@ -491,7 +491,9 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    width: 40px;
+    height: 40px;
+    font-size: 35px!important;
 }
 
 .icon-lg {
